@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>GICPL</strong> (Gurgaon Inter-Corporate Premier League) is a full-stack, CricHeroes-style cricket club management platform featuring live ball-by-ball scoring, real-time scorecards, detailed player statistics, leaderboards, and tournament management — all wrapped in a modern, responsive UI.
+  <strong>GICPL</strong> (Government Inter College Premier League) is a full-stack, CricHeroes-style cricket club management platform featuring live ball-by-ball scoring, real-time scorecards, detailed player statistics, leaderboards, and tournament management — all wrapped in a modern, responsive UI.
 </p>
 
 <p align="center">
