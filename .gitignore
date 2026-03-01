@@ -1,22 +1,50 @@
-# Dependencies
+# ========================
+#  GICPL .gitignore
+# ========================
+
+# ---------- Dependencies ----------
 node_modules/
+package-lock.json
 
-# Environment files
+# ---------- Environment Variables ----------
 .env
-.env.local
-.env.production
+.env.*
+!.env.example
 
-# Build output
+# ---------- Build Output ----------
 frontend/dist/
+frontend/.vite/
 
-# Logs
+# ---------- Logs ----------
 backend/logs/*.log
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# OS files
+# ---------- OS Files ----------
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# IDE
+# ---------- IDE / Editor ----------
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# ---------- Testing ----------
+coverage/
+.nyc_output/
+
+# ---------- Misc ----------
+*.tgz
+*.pid
+*.seed
+*.pid.lock
