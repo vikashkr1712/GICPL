@@ -31,7 +31,6 @@
 - [Real-Time Architecture](#-real-time-architecture)
 - [Deployment](#-deployment)
 - [Testing](#-testing)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -527,12 +526,6 @@ npm test
 | Run Out | Verify wicket NOT credited to bowler |
 | Over Completion | Verify over increments after 6 legal balls |
 | Innings Completion | Verify all-out or overs exhausted detection |
-
----
-
-## 📸 Screenshots
-
-> _Coming soon — Add screenshots of Home page, Live Scoring, Scorecard, Leaderboard, etc._
 
 ---
 
